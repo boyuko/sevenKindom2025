@@ -39,6 +39,10 @@
 		{
 			"Name": "LiveLinkVRPN",
 			"Enabled": true
+		},
+		{
+			"Name": "OSC",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
