@@ -60,7 +60,7 @@ Build/*/**
 !Build/**/*.ico
 
 # Built data for maps
-*_BuiltData.uasset
+#*_BuiltData.uasset
 
 
 # ⚠️ 取消忽略 Plugins 資料夾內的所有內容
