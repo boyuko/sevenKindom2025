@@ -74,3 +74,8 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset
+/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset
+/Content/StarterContent/Maps/StarterMap_BuiltData.uasset
+/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset
+/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset
